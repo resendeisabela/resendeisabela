@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align='right' src='https://imgur.com/kvmMsl3' width='150'>
+<img align='right' src='https://imgur.com/kvmMsl3' width='200'>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Isa-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
