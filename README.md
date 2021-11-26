@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img align='right' src='https://gifer.com/embed/4OKl' width='150'>
 
 <!--
 **resendeisabela/resendeisabela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
