@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align='right' src='https://imgur.com/kvmMsl3' width='200'>
-<iframe src="https://giphy.com/embed/f8IwFxQUJsLyFnAJ9Q" width="480" height="470" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/transparent-f8IwFxQUJsLyFnAJ9Q">via GIPHY</a></p>
+<img align='right' src='https://media.giphy.com/media/f8IwFxQUJsLyFnAJ9Q/giphy.gif' width='200'>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Isa-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
