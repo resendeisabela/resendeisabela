@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img align='right' src='https://imgur.com/kvmMsl3' width='150'>
 
 <!--
 **resendeisabela/resendeisabela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align='right' src='https://imgur.com/kvmMsl3' width='150'>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Isa-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
